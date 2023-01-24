@@ -1,0 +1,5 @@
+com.zemoso.springdemo.aspect.StudentLoggingAspect=org.springframework.stereotype.Component
+com.zemoso.springdemo.controller.StudentController=org.springframework.stereotype.Component
+com.zemoso.springdemo.dao.StudentDaoImp=org.springframework.stereotype.Component
+com.zemoso.springdemo.entity.Student=javax.persistence.Entity,javax.persistence.Table
+com.zemoso.springdemo.service.StudentServiceImpl=org.springframework.stereotype.Component
